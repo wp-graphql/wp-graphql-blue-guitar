@@ -24,4 +24,4 @@ will return:
 
 ## In Action
 
-[Screenshot of GraphQL Query in action](./img/screenshot-guitar-query.png)
+![Screenshot of GraphQL Query in action](./img/screenshot-guitar-query.png)
