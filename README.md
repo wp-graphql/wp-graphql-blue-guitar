@@ -3,7 +3,7 @@
 Demo plugin, created as a joke, to show how to query a blue guitar using WPGraphQL.
 
 ```graphql
-query BlueGuitar {
+query {
   guitar {
     color
   }
@@ -21,3 +21,7 @@ will return:
   }
 }
 ```
+
+## In Action
+
+[Screenshot of GraphQL Query in action](./img/screenshot-guitar-query.png)
